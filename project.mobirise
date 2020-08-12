@@ -62,7 +62,7 @@
     "uniqCompNum": 58,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/hg-4.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
